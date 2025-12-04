@@ -1,0 +1,4 @@
+com\mycompany\peraktikumrpl2\view\mahasiswaview.class
+com\mycompany\peraktikumrpl2\model\modelmahasiswa.class
+com\mycompany\peraktikumrpl2\controller\mahasiswacontroller.class
+com\mycompany\peraktikumrpl2\model\mahasiswaDAO.class
